@@ -1,0 +1,17 @@
+a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+    border: #FFF 5px solid;
+    padding: 10px 20px;
+    margin-top: 5px;
+    background-color: darkslategrey;
+    transition: background-color 0.3s ease;
+    border-radius: 20px;
+}
+
+a:hover {
+    background-color: #0056b3;
+    /* Change background color on hover */
+}
